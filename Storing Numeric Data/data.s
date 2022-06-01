@@ -1,8 +1,7 @@
 section .data
-	num DW 0
+	num DD 5
 
 section .text
-
 global _start
 
 _start:
